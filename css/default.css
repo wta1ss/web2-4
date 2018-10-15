@@ -12,3 +12,23 @@ th,td{
   float: left;
   margin-right: 30px;
 }
+
+.btn{
+  -webkit-appearance: none;
+  -webkit-border-radius: 0;
+  margin: 5px;
+  width: 80px;
+  height: 20px;
+  padding: 10px;
+  border: none;
+  fonr-size: 16px;
+}
+
+.btn-submit{
+  background-color: red;
+}
+
+.btn-reset{
+  background-color: yellow;
+}
+  
