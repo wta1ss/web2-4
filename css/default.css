@@ -7,3 +7,8 @@
 th,td{
   border: 1px solid lightcoral;
 }
+
+.photo{
+  float: left;
+  margin-right: 30px;
+}
